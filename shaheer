@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": "shaheer",
+      "roll_number": "001",
+      "home_address": "123 Main St, Cityville, Country"
+    },
+    {
+      "id": "abdullah",
+      "roll_number": "002",
+      "home_address": "456 Elm St, Townsville, Country"
+    },
+    {
+      "id": "jaffar",
+      "roll_number": "003",
+      "home_address": "789 Maple Ave, Villagetown, Country"
+    }
+  ]
+}
